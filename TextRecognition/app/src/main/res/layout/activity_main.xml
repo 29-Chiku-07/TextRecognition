@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="match_parent">
+
+     <Button
+         android:id="@+id/next1"
+         android:layout_width="match_parent"
+         android:layout_height= "match_parent"
+         android:layout_marginTop="300dp"
+         android:layout_marginBottom="10dp"
+         android:text="Text recognition"
+         android:textSize="24dp"
+         />
+
+ </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+

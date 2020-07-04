@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "29710461112",
+    "firebase_url": "https://quarantine-6856c.firebaseio.com",
+    "project_id": "quarantine-6856c",
+    "storage_bucket": "quarantine-6856c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29710461112:android:9c15dfd809e317f4202c4d",
+        "android_client_info": {
+          "package_name": "com.example.quarantine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29710461112-eab0djebd0upencnhqortdtbucd6tvb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD39YWm4qC_7gNtOQ8Se0WbimIoPWQT0eY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29710461112-eab0djebd0upencnhqortdtbucd6tvb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
